@@ -1,0 +1,1 @@
+we installed npm i cors mongoose express dotenv nodemon
